@@ -11,8 +11,8 @@
 
 ```javascript
 const Buus = {
-  code: [PHP, Typescript, HTML, CSS],
-  tools: [React, Scss, Node, Adobe, Local ],
+  code: [PHP],
+  tools: [React, Scss, Node, Adobe, Local, HTML, CSS ],
   architecture: ["perfectionist", "curious", "design pattern enthusiast"],
   doing: "enjoying the nature of Norway"
 }
