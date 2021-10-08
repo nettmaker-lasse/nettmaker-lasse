@@ -1,7 +1,7 @@
 # <b>Hi there, welcome! I'm Lasse</b>&nbsp;<img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />
 <br>
 
-<a align="right" href="https://app.daily.dev/lassebuus"><img src="https://api.daily.dev/devcards/dde1886bfd144a1388dcb7e0fc3cfa4b.png?r=c4r" width="400" alt="Lasse Buus Nielsen's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/lassebuus"><img src="https://github.com/nettmaker-lasse/nettmaker-lasse/blob/main/devcard.svg" width="400" alt="Lasse Buus Nielsen's Dev Card"/></a>
 <p align="left">
   Frontend developer from <b>Denmark</b>, currently living in <b>Oslo, Norway </b><img src="https://media.giphy.com/media/W1O4hCT9EK11SNl1jm/giphy.gif" width="30"></p>
   	
