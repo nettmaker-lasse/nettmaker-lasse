@@ -1,8 +1,8 @@
 # <b>Hi there, welcome! I'm Lasse</b>&nbsp;<img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />
 <br>
 
-<img align="right" src="https://lassebuus.dk/memoji.png" width="200"/>
-<p aligh="left">
+<a align="right" href="https://app.daily.dev/lassebuus"><img src="https://api.daily.dev/devcards/dde1886bfd144a1388dcb7e0fc3cfa4b.png?r=c4r" width="400" alt="Lasse Buus Nielsen's Dev Card"/></a>
+<p align="left">
   Frontend developer from <b>Denmark</b>, currently living in <b>Oslo, Norway </b><img src="https://media.giphy.com/media/W1O4hCT9EK11SNl1jm/giphy.gif" width="30"></p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
